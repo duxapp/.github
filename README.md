@@ -1,2 +1,2 @@
-# .github
-duxapp介绍
+# duxapp
+这是一个基于Taro的模块化移动端应用程序开发开发框架，他能开发小程序、H5、App

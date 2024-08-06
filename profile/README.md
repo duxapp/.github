@@ -32,6 +32,7 @@ npx duxapp-cli create projectName
 ## 开发资源预览
 [移动端页面设计器在线预览](https://design.duxapp.cn/)  
 
-duxui小程序（微信小程序搜索 duxui）  
-[duxapp APP安装包下载](https://app.share.dux.plus/com.duxapp.duxui)  
-[duxapp H5预览地址](https://example.duxui.cn)  
+duxui小程序示例  
+<image src="./weapp.jpg" width="160" />  
+[duxui APP安装包下载](https://app.share.dux.plus/com.duxapp.duxui)  
+[duxui H5预览地址](https://example.duxui.cn)  

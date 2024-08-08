@@ -36,3 +36,9 @@ duxui小程序示例
 <image src="./weapp.jpg" width="160" />  
 [duxui APP安装包下载](https://app.share.dux.plus/com.duxapp.duxui)  
 [duxui H5预览地址](https://example.duxui.cn)  
+
+## 问题反馈
+如果你发现bug或者有新的想法，可以在讨论区发起讨论  
+[https://github.com/orgs/duxapp/discussions](https://github.com/orgs/duxapp/discussions)  
+或者可以加入微信群讨论
+<image src="./wexin.png" width="160" />  

@@ -5,9 +5,10 @@
 
 在使用命令之前，请确保安装了以下环境和工具
 
-- nodejs 20+
-- git命令行工具
-- yarn
+- [nodejs 20+](https://nodejs.cn/download/)
+- [git命令行工具](https://git-scm.com/downloads)
+- yarn  
+使用命令 `npm i yarn -g` 安装
 
 ```bash
 npx duxapp-cli create projectName
@@ -24,10 +25,11 @@ npx duxapp-cli create projectName
 
 ## 文档地址
 
-[doc.duxapp.cn](https://doc.duxapp.cn)  
-[RN开发文档](https://doc.duxapp.cn/docs/course/rn/start)  
-[duxui模块文档](https://doc.duxapp.cn/docs/category/ui%E5%BA%93duxui)  
-[duxapp模块文档](https://doc.duxapp.cn/docs/category/%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9D%97duxapp)  
+[duxapp.cn](http://duxapp.cn)  
+
+[RN开发文档](http://duxapp.cn/docs/course/rn/start)  
+[duxui模块文档](http://duxapp.cn/docs/duxui/start)  
+[duxapp模块文档](http://duxapp.cn/docs/duxapp/start)  
 
 ## 开发资源预览
 [移动端页面设计器在线预览](https://design.duxapp.cn/)  

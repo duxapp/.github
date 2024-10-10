@@ -36,7 +36,7 @@ npx duxapp-cli create projectName
 
 duxui小程序示例  
 <image src="./weapp.jpg" width="160" />  
-[duxui APP安装包下载](https://app.share.dux.plus/com.duxapp.duxui)  
+[duxui APP安装包下载](https://app.share.dux.plus/cn.duxapp.duxui)  
 [duxui H5预览地址](https://duxui.duxapp.cn)  
 
 ## 问题反馈
